@@ -2,19 +2,17 @@
   "main": {
     "name": "Taha Mulla",
     "occupation": "Full Stack Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "Turning coffee into code and ideas into reality",
     "image": "TM.jpg",
-    "bio": "Hi there! I am Taha! I've been coding for over 2 years now. As a Full-Stack Software Developer, I specialize in building efficient, scalable applications using modern web technologies. My technical expertise includes JavaScript, React, Express.js, PostgreSQL, HTML, CSS, and SASS. I have hands-on experience developing multi-page platforms and dynamic scheduling tools, implementing secure authentication, and ensuring application stability through comprehensive testing. My background in IT support has honed my troubleshooting abilities and enhanced my collaborative skills, enabling me to deliver user-centric solutions effectively. I am passionate about continuous learning and am committed to expanding my technical expertise to stay abreast of industry advancements.",
+    "bio": "Hi there! I’m Taha, a Full-Stack Software Developer with over 2 years of experience. I specialize in building efficient, scalable applications using modern web technologies like JavaScript, React, Express.js, PostgreSQL, HTML, CSS, and SASS. I’ve developed multi-page platforms, dynamic scheduling tools, implemented secure authentication, and ensured application stability through rigorous testing. My background in IT support has sharpened my troubleshooting skills and enhanced my ability to collaborate effectively, delivering user-centric solutions. I’m passionate about continuous learning and always eager to expand my technical expertise.",
     "contactmessage": "Get in touch with me!",
     "email": "Tahamullaa@gmail.com",
     "phone": "",
     "address": {
-      "street": "",
       "city": "Toronto",
-      "state": "Ontario",
-      "zip": ""
+      "state": "Ontario"
     },
-    "resumedownload": "https://docs.google.com/document/d/1tzImn8nP73ZpySJ0-ASMI54raCTs9SWUj-s5jm41Wxg/edit?usp=drive_link",
+    "resumedownload": "",
     "social": [
       {
         "name": "linkedin",
@@ -32,7 +30,7 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Lighthouse labs",
+        "school": "Lighthouse Labs",
         "degree": "Diploma, Web Development",
         "graduated": "May 2024",
         "description": "Graduated with First Class Honours"
@@ -41,56 +39,28 @@
         "school": "NPower Canada",
         "degree": "Certification, Junior QA and Security Analyst ",
         "graduated": "May 2021",
-        "description": "Graduated with a 3.4 Gpa"
-      }
-    ],
-    "work": [
-      {
-        "company": "DHL Express ",
-        "title": "Team Lead / Driver",
-        "years": "Dec 2018 - Present",
-        "description": "Managed daily logistics and optimized delivery routes, maintaining a 95-100% success rate. Provided excellent customer service, addressing inquiries and resolving shipment issues. Ensured accurate documentation and efficient coordination with dispatch teams."
-      },
-      {
-        "company": "TDSB ",
-        "title": "Facility Operations",
-        "years": "Jun 2022 - Jan 2024",
-        "description": "Maintained facility operations and ensured a safe, clean learning environment. Coordinated with vendors for specialized repairs and maintenance projects. Responded to service requests and emergencies in a timely manner "
-      },
-      {
-        "company": "Metalogix ",
-        "title": "Technical Deskside Support",
-        "years": "Jan 2021 - May 2022",
-        "description": "Provided IT support, resolving an average of 25 daily tickets via ServiceNow with 90% first-contact resolution. Installed and configured hardware/software for new users, improving setup efficiency by 20%. Collaborated with Technology Service Groups to enhance IT service delivery."
+        "description": "Graduated with a 3.4 GPA"
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "90%"
-      },
-      {
-        "name": "Python",
-        "level": "50%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "90%"
-      },
-      {
-        "name": "Web Development",
-        "level": "90%"
-      }
-    ]
+  { "name": "ReactJs", "level": "90%", "type": "frontend" },
+  { "name": "JavaScript", "level": "85%", "type": "frontend" },
+  { "name": "HTML/CSS", "level": "95%", "type": "frontend" },
+  { "name": "Tailwind CSS", "level": "80%", "type": "frontend" },
+  { "name": "Next.js", "level": "75%", "type": "frontend" },
+  { "name": "Node.js", "level": "80%", "type": "backend" },
+  { "name": "Python", "level": "70%", "type": "backend" },
+  { "name": "PostgreSQL", "level": "85%", "type": "backend" },
+  { "name": "MongoDB", "level": "75%", "type": "backend" },
+  { "name": "Express", "level": "80%", "type": "backend" },
+  { "name": "REST APIs", "level": "85%", "type": "backend" }
+]
+
   },
   "portfolio": {
     "projects": [
       {
-        "title": "QuizApp (Javascript, Node)",
+        "title": "QuizApp (JavaScript, Node)",
         "category": "",
         "image": "",
         "url": "https://github.com/taha-mulla/quizApp"
@@ -100,18 +70,6 @@
         "category": "",
         "image": "Photo-labs.jpg",
         "url": "https://github.com/taha-mulla/photo-labs"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
       }
     ]
   }
